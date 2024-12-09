@@ -40,12 +40,12 @@ By enhancing the model architecture through the addition of supplementary layers
 ![sample_Input](sample_Input.png)
 
 
-### **Sample Output U-Net**
+### **Sample Output -> U-Net**
 
 ![sample_output_unet](output_Unet.png)
 
 
-### **Sample Output Pix2Pix**
+### **Sample Output -> Pix2Pix**
 
 ![sample_output_pix2pix](output_Pix2Pix.png)
 
