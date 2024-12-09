@@ -33,7 +33,7 @@ Here is a Google Drive link to the trained models: https://drive.google.com/driv
 
 ## Sample Input Output
 
-By enhancing the model architecture through the addition of supplementary layers and training it on high-performance dedicated GPUs, we can achieve outputs with significantly higher resolutions.  
+By enhancing the model architecture through the addition of supplementary layers and training it on high-performance dedicated GPUs, we can achieve outputs with significantly higher resolutions. You can De-Noise and Sharpen the output, to get clearer images.
 
 ### **Sample Input**
 
