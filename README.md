@@ -37,16 +37,16 @@ By enhancing the model architecture through the addition of supplementary layers
 
 ### **Sample Input**
 
-![sample_Input](sample_Input.png)
+![sample_input](https://github.com/user-attachments/assets/8f719c78-5f23-4f6f-870f-77f907416f16)
 
 
 ### **Sample Output -> U-Net**
 
-![sample_output_unet](output_Unet.png)
+![output_Unet](https://github.com/user-attachments/assets/27215d29-61e2-4128-9245-d5929a19fe36)
 
 
 ### **Sample Output -> Pix2Pix**
 
-![sample_output_pix2pix](output_Pix2Pix.png)
+![output_Pix2Pix](https://github.com/user-attachments/assets/f80eaf93-91cf-470b-aa2b-79448e9746b2)
 
 
