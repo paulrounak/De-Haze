@@ -1,12 +1,12 @@
 # De-hazer
 
-🌥️ **Welcome to the De-hazing project!** 🌥️
+**Welcome to the De-hazing project!**
 
 This project focuses on utilizing machine learning techniques to remove haze and enhance visibility in images and videos. The core architecture used here is the UNet neural network, well-suited for image-to-image translation tasks.
 
 ## Basic Features
 
-✨ **Key Features** ✨
+**Key Features**
 
 - **Image De-Hazing:** The model is designed to remove haze and improve visibility in images and video frames.
 - **Architecture:** This repository contains two different architectures to perform de-hazing: UNet and Pix2Pix.
@@ -14,7 +14,7 @@ This project focuses on utilizing machine learning techniques to remove haze and
 
 ## Getting Started
 
-🚀 **Getting Started** 🚀
+**Getting Started**
 
 1. Clone this repository to your local machine:
 
